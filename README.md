@@ -25,4 +25,9 @@
 - [ ] [writing FAANG resume](https://www.techinterviewhandbook.org/resume/)
 - [ ] [DSA cheatsheets](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## front-end resources
+- [X] [RedKetchup](https://redketchup.io/color-picker) upload image and find out the exact pixel color
+- [X] [Dark Mode Gray](https://blog.karenying.com/posts/50-shades-of-dark-mode-gray) dark theme how to design it easy to the eye
+- [X] [daisyUI](https://daisyui.com/) the component library for Tailwind CSS
+
+<p align="right">(<a href="#Roadmap">back to top</a>)</p>
