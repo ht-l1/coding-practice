@@ -19,4 +19,10 @@
 [BroCode - Python Course](https://www.youtube.com/watch?app=desktop&v=XKHEtdqhLK8&t=12312s&ab_channel=BroCode) <br>
 [Cheatsheet - Study Guide](https://leetcode.com/discuss/study-guide/2122306/Python-Cheat-Sheet-for-Leetcode) <br>
 
+## Interviews
+
+- [ ] [Software Engineer Behavioral Interview Questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
+- [ ] [writing FAANG resume](https://www.techinterviewhandbook.org/resume/)
+- [ ] [DSA cheatsheets](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
