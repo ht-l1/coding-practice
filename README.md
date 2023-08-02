@@ -10,8 +10,8 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- Useful Links -->
-## Useful Links
+<!-- Useful Resources -->
+## Useful Resources
 
-[Python Course](https://www.youtube.com/watch?app=desktop&v=XKHEtdqhLK8&t=12312s&ab_channel=BroCode)
-[Cheatsheet](https://leetcode.com/discuss/study-guide/2122306/Python-Cheat-Sheet-for-Leetcode)
+Python Course: https://www.youtube.com/watch?app=desktop&v=XKHEtdqhLK8&t=12312s&ab_channel=BroCode <br>
+Cheatsheet: https://leetcode.com/discuss/study-guide/2122306/Python-Cheat-Sheet-for-Leetcode
