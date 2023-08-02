@@ -14,7 +14,8 @@
 <!-- Useful Resources -->
 ## Explain like I'm 5
 
-[BigO notation cheatsheet](https://salmaeng71.medium.com/big-o-notation-cheat-sheet-4a7e5632c93e) <br>
+- [x] [BigO notation cheatsheet](https://salmaeng71.medium.com/big-o-notation-cheat-sheet-4a7e5632c93e) <br>
+- [x] [Learn Bio O notation in 6 minutes](https://www.youtube.com/watch?v=XMUe3zFhM5c&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=8&ab_channel=BroCode) <br>
 [BroCode - Python Course](https://www.youtube.com/watch?app=desktop&v=XKHEtdqhLK8&t=12312s&ab_channel=BroCode) <br>
 [Cheatsheet - Study Guide](https://leetcode.com/discuss/study-guide/2122306/Python-Cheat-Sheet-for-Leetcode) <br>
 
