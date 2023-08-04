@@ -5,11 +5,11 @@
 
 <!-- DSAs -->
 ## Syntax, DSA, and whatnot
-### `sort()` 
+#### `sort()` 
 > when using `sort()`, the original list is directly modified  
 > `list_name.sort()`
 
-### [List Comprehension](https://www.geeksforgeeks.org/python-list-comprehension/) <br>
+#### [List Comprehension](https://www.geeksforgeeks.org/python-list-comprehension/) <br>
 > `list = [i for i in range(11) if i % 2 == 0]` <br>
 > `print(list)` <br>
 > output:[0,2,4,6,8,10]
