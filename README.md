@@ -1,6 +1,6 @@
 <!-- ROADMAP -->
 ## Roadmap
-- [x] arrays
+- [x] Array
 
 <!-- DSAs -->
 ## Syntax, DSA, and whatnot
@@ -21,7 +21,6 @@
 > `print(list)` <br>
 > output:[0,2,4,6,8,10]
 
-
 <!-- Useful Resources -->
 ## Explain like I'm 5
 
@@ -36,7 +35,8 @@
 - [ ] [writing FAANG resume](https://www.techinterviewhandbook.org/resume/)
 - [ ] [DSA cheatsheets](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 
-## front-end resources
+## Other
+- [X] [Contribute to Open Source Projects](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 - [X] [RedKetchup](https://redketchup.io/color-picker) upload image and find out the exact pixel color
 - [X] [Dark Mode Gray](https://blog.karenying.com/posts/50-shades-of-dark-mode-gray) dark theme how to design it easy to the eye
 - [X] [daisyUI](https://daisyui.com/) the component library for Tailwind CSS
