@@ -24,10 +24,15 @@
 #### [Difference between List, Tuple, Set, and Dictionary](https://www.geeksforgeeks.org/differences-and-applications-of-list-tuple-set-and-dictionary-in-python/)
 > set is unordered <br>
 > set and dict dot not allow duplicate elements/keys
-> - list l=[]
-> - tuple t=()
-> - set a=set(), b=set(a)  `{1,2,3,4,5}` 
-> - dict d={}   `{1:"a", 2:"b", 3:"c", 4:"d", 5:"e"}`
+> list `l=[]`
+> tuple `t=()`
+> set `a=set(), b=set(a)` example `{1,2,3,4,5}` 
+> dict `d={}` example `{1:"a", 2:"b", 3:"c", 4:"d", 5:"e"}`
+
+## Interviews
+- [ ] [Software Engineer Behavioral Interview Questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
+- [ ] [writing FAANG resume](https://www.techinterviewhandbook.org/resume/)
+- [ ] [DSA cheatsheets](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 
 <!-- Useful Resources -->
 ## Useful Resources
@@ -36,11 +41,6 @@
 - [BroCode - Python Course](https://www.youtube.com/watch?app=desktop&v=XKHEtdqhLK8-&t=12312s&ab_channel=BroCode)
 - [Cheatsheet - Study Guide](https://leetcode.com/discuss/study-guide/2122306/Python-Cheat-Sheet-for-Leetcode)
 - [OverAPI Cheatsheet](https://overapi.com/python)
-
-## Interviews
-- [ ] [Software Engineer Behavioral Interview Questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
-- [ ] [writing FAANG resume](https://www.techinterviewhandbook.org/resume/)
-- [ ] [DSA cheatsheets](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 
 ## Other
 - [Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
