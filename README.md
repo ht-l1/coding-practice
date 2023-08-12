@@ -24,10 +24,10 @@
 #### [Difference between List, Tuple, Set, and Dictionary](https://www.geeksforgeeks.org/differences-and-applications-of-list-tuple-set-and-dictionary-in-python/)
 > set is unordered <br>
 > set and dict dot not allow duplicate elements/keys <br>
-    > list l=[] <br>
-    > tuple t=() <br>
-    > set a=set(), b=set(a)  >> {1,2,3,4,5} <br>
-    > dict d={}   >> {1:"a", 2:"b", 3:"c", 4:"d", 5:"e"} <br>
+> - list l=[] <br>
+> - tuple t=() <br>
+> - set a=set(), b=set(a)  >> {1,2,3,4,5} <br>
+> - dict d={}   >> {1:"a", 2:"b", 3:"c", 4:"d", 5:"e"} <br>
 
 <!-- Useful Resources -->
 ## Useful Resources
