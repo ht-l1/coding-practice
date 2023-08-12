@@ -21,6 +21,14 @@
 > `print(list)` <br>
 > output:[0,2,4,6,8,10]
 
+#### [Difference between List, Tuple, Set, and Dictionary](https://www.geeksforgeeks.org/differences-and-applications-of-list-tuple-set-and-dictionary-in-python/)
+> set is unordered
+> set and dict dot not allow duplicate elements/keys
+> list l=[]
+> tuple t=()
+> set a=set(), b=set(a)  >> {1,2,3,4,5}
+> dict d={}   >> {1:"a", 2:"b", 3:"c", 4:"d", 5:"e"}
+
 <!-- Useful Resources -->
 ## Useful Resources
 - [x] [BigO notation cheatsheet](https://salmaeng71.medium.com/big-o-notation-cheat-sheet-4a7e5632c93e) <br>
@@ -33,11 +41,8 @@
 - [ ] [writing FAANG resume](https://www.techinterviewhandbook.org/resume/)
 - [ ] [DSA cheatsheets](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 
-## Nextjs
-- [X] [Routing: Route Groups](https://nextjs.org/docs/app/building-your-application/routing/route-groups)
-
 ## Other
-- [X] [markdown syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [X] [Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [ ] [How to contribute to open source within 10 minutes](https://www.youtube.com/watch?v=8B_JWf7pG20&ab_channel=EddieJaoude)
 - [ ] [100 Days of Code](https://www.100daysofcode.com/)
 - [X] [Contribute to Open Source Projects](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
