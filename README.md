@@ -33,6 +33,9 @@
 - [ ] [writing FAANG resume](https://www.techinterviewhandbook.org/resume/)
 - [ ] [DSA cheatsheets](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 
+## Nextjs
+- [X] [Routing: Route Groups](https://nextjs.org/docs/app/building-your-application/routing/route-groups)
+
 ## Other
 - [X] [markdown syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [ ] [How to contribute to open source within 10 minutes](https://www.youtube.com/watch?v=8B_JWf7pG20&ab_channel=EddieJaoude)
