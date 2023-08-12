@@ -34,7 +34,9 @@
 - [ ] [DSA cheatsheets](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 
 ## Other
+- [X] [markdown syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [ ] [How to contribute to open source within 10 minutes](https://www.youtube.com/watch?v=8B_JWf7pG20&ab_channel=EddieJaoude)
+- [ ] [100 Days of Code](https://www.100daysofcode.com/)
 - [X] [Contribute to Open Source Projects](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 - [X] [RedKetchup](https://redketchup.io/color-picker) upload image and find out the exact pixel color
 - [X] [Dark Mode Gray](https://blog.karenying.com/posts/50-shades-of-dark-mode-gray) dark theme how to design it easy to the eye
