@@ -40,6 +40,7 @@
 
 <!-- Useful Resources -->
 ## Useful Resources
+- [Java Programming Sheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
 - [BigO notation cheatsheet](https://salmaeng71.medium.com/big-o-notation-cheat-sheet-4a7e5632c93e)
 - [Learn Bio O notation in 6 minutes](https://www.youtube.com/watch?v=XMUe3zFhM5c&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=8&ab_channel=BroCode)
 - [BroCode - Python Course](https://www.youtube.com/watch?app=desktop&v=XKHEtdqhLK8-&t=12312s&ab_channel=BroCode)
