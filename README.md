@@ -1,6 +1,6 @@
 <!-- ROADMAP -->
-## Roadmap
-- [x] Array in Python
+<!-- ## Roadmap
+- [x] Array in Python -->
 
 <!-- DSAs -->
 <!-- ## Syntax & Funtions
@@ -30,7 +30,7 @@
 > dict `d={}` example `{1:"a", 2:"b", 3:"c", 4:"d", 5:"e"}` <br> -->
 
 <!-- #### [lambda](https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/)
-> it is like a customized/personalized drink order that does not have its own name (not on fixed menu) --> -->
+> it is like a customized/personalized drink order that does not have its own name (not on fixed menu) --> 
 
 ## Algorithms
 - [Two pointer techniques — a visual tutorial](https://medium.com/@klintcho/two-pointer-techniques-a-visual-tutorial-9ce2d36a15ed)
