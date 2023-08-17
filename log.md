@@ -12,4 +12,7 @@ Started at 8/12
     - CS61B - 1.1 Essentials 
     - Cracking-The-Coding-Interview { page 72 }
  - [x] ***day5*** <!-- 8/16 -->
-    - CS61B - 1.1 Homework & Lab { To-Do! } 
+    - CS61B - 1.1 Homework & Lab
+    - CS61B - 1.2 Objects 
+ - [x] ***day6*** <!-- 8/17 -->
+    - CS61B - 1.2 [Project 0 NBody Simulation](https://sp19.datastructur.es/materials/proj/proj0/proj0) 
