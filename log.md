@@ -10,6 +10,7 @@ read these LinkedIn articles:
 ## 100 Days of Code (after graduating from bootcamp)
  - [x] ***day8*** 8/19
     - codewars Java questions
+    - learnt how to add Code-of-Conduct, MIT License, and Release to my projects
     - read [How to Be a Kickass New Software Engineer](https://www.linkedin.com/pulse/how-kickass-new-software-engineer-raymond-gan/?ref=blog.pragmaticengineer.com)
  - [x] ***day7*** 8/18
     - CS61B - 1.2 Reading Project 0 - game2048
