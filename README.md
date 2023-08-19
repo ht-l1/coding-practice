@@ -46,15 +46,16 @@
 - [BroCode - Python Course](https://www.youtube.com/watch?app=desktop&v=XKHEtdqhLK8-&t=12312s&ab_channel=BroCode)
 - [Cheatsheet - Study Guide](https://leetcode.com/discuss/study-guide/2122306/Python-Cheat-Sheet-for-Leetcode)
 - [OverAPI Cheatsheet](https://overapi.com/python)
-
-## Other
-- [How to Be a Kickass New Software Engineer](https://www.linkedin.com/pulse/how-kickass-new-software-engineer-raymond-gan/?ref=blog.pragmaticengineer.com)
-- [Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [How to contribute to open source within 10 minutes](https://www.youtube.com/watch?v=8B_JWf7pG20&ab_channel=EddieJaoude)
-- [100 Days of Code](https://www.100daysofcode.com/)
-- [Contribute to Open Source Projects](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
 - [RedKetchup](https://redketchup.io/color-picker) upload image and find out the exact pixel color
 - [Dark Mode Gray](https://blog.karenying.com/posts/50-shades-of-dark-mode-gray) dark theme how to design it easy to the eye
 - [daisyUI](https://daisyui.com/) the component library for Tailwind CSS
+- [Markdown Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+## Open Source & Good Read
+- [Advice for Less Experienced Software Engineers](https://blog.pragmaticengineer.com/advice-for-junior-software-engineers/)
+- [How to Be a Kickass New Software Engineer](https://www.linkedin.com/pulse/how-kickass-new-software-engineer-raymond-gan/?ref=blog.pragmaticengineer.com)
+- [How to contribute to open source within 10 minutes](https://www.youtube.com/watch?v=8B_JWf7pG20&ab_channel=EddieJaoude)
+- [Contribute to Open Source Projects](https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-beginners-guide/)
+
 
 <p align="right">(<a href="#Roadmap">back to top</a>)</p>
