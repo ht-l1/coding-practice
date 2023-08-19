@@ -19,6 +19,7 @@ Started at 8/12
  - [x] ***day7*** 8/18
     - CS61B - 1.2 Reading Project 0 - game2048
  - [x] ***day8*** 8/19
+    - codewars Java questions
     - read [How to Be a Kickass New Software Engineer](https://www.linkedin.com/pulse/how-kickass-new-software-engineer-raymond-gan/?ref=blog.pragmaticengineer.com)
 
 
