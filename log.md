@@ -8,6 +8,10 @@ read these LinkedIn articles:
 - [ ] To software developers: [How to make a popular LinkedIn page](https://www.linkedin.com/pulse/software-developers-how-make-popular-linkedin-page-raymond-gan/)
 
 ## 100 Days of Code (after graduating from bootcamp)
+ - [x] ***day10*** 8/21
+    - read ["Coffee Chats"​ & Networking on LinkedIn](https://www.linkedin.com/pulse/beginners-guide-coffee-chats-networking-linkedin-rebecca-mclaren/)
+ - [x] ***day9*** 8/20
+    - rest day☕
  - [x] ***day8*** 8/19
     - codewars Java questions
     - learnt how to add Code-of-Conduct, MIT License, and Release to my projects

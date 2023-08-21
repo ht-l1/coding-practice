@@ -43,6 +43,7 @@
 - [Software Engineer Behavioral Interview Questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
 
 ## Open Source & Good Read
+- ["Coffee Chats"​ & Networking on LinkedIn](https://www.linkedin.com/pulse/beginners-guide-coffee-chats-networking-linkedin-rebecca-mclaren/)
 - [Advice for Less Experienced Software Engineers](https://blog.pragmaticengineer.com/advice-for-junior-software-engineers/)
 - [How to Be a Kickass New Software Engineer](https://www.linkedin.com/pulse/how-kickass-new-software-engineer-raymond-gan/?ref=blog.pragmaticengineer.com)
 - [How to contribute to open source within 10 minutes](https://www.youtube.com/watch?v=8B_JWf7pG20&ab_channel=EddieJaoude)
