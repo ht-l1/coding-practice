@@ -51,6 +51,7 @@
 
 <!-- Useful Resources -->
 ## Useful Resources
+- [Java Interview](https://hr.elprimo.net/most-asked-java-interview-100-qa-pdf/)
 - [Java Programming Sheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
 - [BroCode - Python Course](https://www.youtube.com/watch?app=desktop&v=XKHEtdqhLK8-&t=12312s&ab_channel=BroCode)
 - [Cheatsheet - Study Guide](https://leetcode.com/discuss/study-guide/2122306/Python-Cheat-Sheet-for-Leetcode)
