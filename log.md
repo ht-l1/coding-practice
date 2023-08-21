@@ -9,11 +9,13 @@ read these LinkedIn articles:
 
 ## 100 Days of Code (after graduating from bootcamp)
  - [x] ***day10*** 8/21
+    - `OpenSource` took a new issue and did a pull request    
+    - `OpenSource` an older pull request was merged!
     - read ["Coffee Chats"​ & Networking on LinkedIn](https://www.linkedin.com/pulse/beginners-guide-coffee-chats-networking-linkedin-rebecca-mclaren/)
  - [x] ***day9*** 8/20
     - rest day☕
  - [x] ***day8*** 8/19
-    - codewars Java questions
+    - `codewars` Java questions
     - learnt how to add Code-of-Conduct, MIT License, and Release to my projects
     - read [How to Be a Kickass New Software Engineer](https://www.linkedin.com/pulse/how-kickass-new-software-engineer-raymond-gan/?ref=blog.pragmaticengineer.com)
  - [x] ***day7*** 8/18
