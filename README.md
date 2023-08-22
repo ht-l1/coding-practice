@@ -21,6 +21,7 @@
 - [BroCode - Python Course](https://www.youtube.com/watch?app=desktop&v=XKHEtdqhLK8-&t=12312s&ab_channel=BroCode)
 - [Cheatsheet - Study Guide](https://leetcode.com/discuss/study-guide/2122306/Python-Cheat-Sheet-for-Leetcode)
 - [OverAPI Cheatsheet](https://overapi.com/python)
+- [Callback vs Promise vs Async-Await](https://medium.com/@anny.huynh32/callbacks-vs-promises-vs-async-await-a66668d44c7b)
 - [RedKetchup](https://redketchup.io/color-picker) upload image and find out the exact pixel color
 - [Dark Mode Gray](https://blog.karenying.com/posts/50-shades-of-dark-mode-gray) dark theme how to design it easy to the eye
 - [daisyUI](https://daisyui.com/) the component library for Tailwind CSS

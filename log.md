@@ -7,10 +7,11 @@ read these LinkedIn articles:
 - [ ] [To bootcamp grads: The cold cutthroat reality of becoming a software engineer](https://www.linkedin.com/pulse/bootcamp-grads-cold-cutthroat-reality-becoming-software-raymond-gan/). Companies often hire only < 1% of software job applicants! Startups often give you just one month to be as fast as the rest of the software team. If not, you're fired.
 - [ ] To software developers: [How to make a popular LinkedIn page](https://www.linkedin.com/pulse/software-developers-how-make-popular-linkedin-page-raymond-gan/)
 
-## 100 Days of Code (after graduating from bootcamp)
+## 100 Days of Code
  - [x] ***day10*** 8/21
+    - reading [callback vs promise vs async/await](https://medium.com/@anny.huynh32/callbacks-vs-promises-vs-async-await-a66668d44c7b)
     - `OpenSource` took a new issue and did a pull request    
-    - `OpenSource` an older pull request was merged!
+    - `OpenSource` an older pull request got merged!
     - read ["Coffee Chats"​ & Networking on LinkedIn](https://www.linkedin.com/pulse/beginners-guide-coffee-chats-networking-linkedin-rebecca-mclaren/)
  - [x] ***day9*** 8/20
     - rest day☕
