@@ -1,13 +1,19 @@
+# 100 Days of Code
 Daily Log for continuous learning <br>
+## First Round Challenge 
+*`Completed (Nov 2022 - Jul 2023)`* <br>
 
-## To-Do
+<!-- ## To-Do
 read these LinkedIn articles:
 - [ ] [The 6 big weaknesses of coding bootcamps and how to fix them](https://www.linkedin.com/pulse/how-coding-bootcamps-weak-raymond-gan/).
 - [ ] [My ideal coding bootcamp](https://www.linkedin.com/pulse/my-ideal-coding-bootcamp-raymond-gan/). Here's what "Raymond's Bootcamp" would be like. Do this to truly be competitive for software jobs.
 - [ ] [To bootcamp grads: The cold cutthroat reality of becoming a software engineer](https://www.linkedin.com/pulse/bootcamp-grads-cold-cutthroat-reality-becoming-software-raymond-gan/). Companies often hire only < 1% of software job applicants! Startups often give you just one month to be as fast as the rest of the software team. If not, you're fired.
-- [ ] To software developers: [How to make a popular LinkedIn page](https://www.linkedin.com/pulse/software-developers-how-make-popular-linkedin-page-raymond-gan/)
+- [ ] To software developers: [How to make a popular LinkedIn page](https://www.linkedin.com/pulse/software-developers-how-make-popular-linkedin-page-raymond-gan/) -->
 
-## 100 Days of Code
+## Second Round Challenge
+*`Ongoing (Aug 2023 - Current)`* <br>
+ - [x] ***day12*** 8/23
+    - `OpenSource` worked on a new issue and pull request
  - [x] ***day11*** 8/22
     - attended a hiring event
     - [python in excel](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-python-in-excel-the-best-of-both-worlds-for-data/ba-p/3905482)
