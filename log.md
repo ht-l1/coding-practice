@@ -8,6 +8,11 @@ read these LinkedIn articles:
 - [ ] To software developers: [How to make a popular LinkedIn page](https://www.linkedin.com/pulse/software-developers-how-make-popular-linkedin-page-raymond-gan/)
 
 ## 100 Days of Code
+ - [x] ***day11*** 8/22
+    - attended a hiring event
+    - [python in excel](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-python-in-excel-the-best-of-both-worlds-for-data/ba-p/3905482)
+    - [video tutorial: Pythin in excel](https://www.youtube.com/watch?v=FbBXtqtRnWU&ab_channel=LeilaGharani)
+    - [Python, Excel, ChatGPT](https://www.youtube.com/watch?v=-_1IaUjO-hk&ab_channel=MyOnlineTrainingHub)
  - [x] ***day10*** 8/21
     - reading [callback vs promise vs async/await](https://medium.com/@anny.huynh32/callbacks-vs-promises-vs-async-await-a66668d44c7b)
     - `OpenSource` took a new issue and did a pull request    
