@@ -1,4 +1,5 @@
 ## Algorithms
+- [A Problem-Solving Flowchart](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_coding_skills_-_v6.pdf)
 - [Two pointer techniques — a visual tutorial](https://medium.com/@klintcho/two-pointer-techniques-a-visual-tutorial-9ce2d36a15ed)
 - [DSA cheatsheets](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 - [BigO notation cheatsheet](https://salmaeng71.medium.com/big-o-notation-cheat-sheet-4a7e5632c93e)

@@ -12,6 +12,9 @@ read these LinkedIn articles:
 
 ## Second Round Challenge
 *`Ongoing (Aug 2023 - Current)`* <br>
+ - [x] ***day13*** 8/24
+    - `CrackingTheCodingInterview` read through page 78
+    - `Resume` wrote a version 2 but liked my version 1 better
  - [x] ***day12*** 8/23
     - `OpenSource` worked on a new issue and pull request
  - [x] ***day11*** 8/22
