@@ -1,3 +1,5 @@
+Welcome any contributions! Just do a pull request :)
+
 ## Algorithms
 - [A Problem-Solving Flowchart](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_coding_skills_-_v6.pdf)
 - [Two pointer techniques — a visual tutorial](https://medium.com/@klintcho/two-pointer-techniques-a-visual-tutorial-9ce2d36a15ed)
@@ -6,6 +8,7 @@
 - [Learn Bio O notation in 6 minutes](https://www.youtube.com/watch?v=XMUe3zFhM5c&list=PLZPZq0r_RZON1eaqfafTnEexRzuHbfZX8&index=8&ab_channel=BroCode)
 
 ## Resume &Interview
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 - [writing FAANG resume](https://www.techinterviewhandbook.org/resume/)
 - [Software Engineer Behavioral Interview Questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
 
