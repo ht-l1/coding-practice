@@ -43,3 +43,33 @@ Hello World!
 - void = no return type
 - main = name of method
 - String[] args = parameter passed to the main method
+
+---
+
+### Lecture 3. Testing
+#### Selection Sort
+- find the smallest item
+- move it to the front
+- selection sort the remaining N-1 items (without touching front item!)
+
+#### JUnit
+- annotate each test with @org.junit.Test
+- change all test methods to non-static (just remove static)
+- use a JUnit to run all tests and tabulate results
+- to avoid repeated naming, we start every test file with:
+    > `import org.junit.Test;` <br>
+    > `import static org.junit.Asset.*;`
+
+---
+
+<!-- ### 2.1 Lists
+#### bits
+> All information in your computer is stored in memory as a sequence of ones and zeros <br>
+> 72 and H are all stored as 01001000, java differentiates them by looking at their types
+
+#### 8 primitive types
+byte, short, int, long, float, double, boolean, char
+
+#### Reference types
+class, array
+ -->

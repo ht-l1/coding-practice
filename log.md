@@ -12,8 +12,12 @@ read these LinkedIn articles:
 
 ## Second Round Challenge
 *`Ongoing (Aug 2023 - Current)`* <br>
+ - [x] ***day15*** 8/26
+    - `cs61b` Lecture 3. Testing
+ - [x] ***day14*** 8/25
+    - learnt pbi
  - [x] ***day13*** 8/24
-    - `CrackingTheCodingInterview` read through page 78
+    - `CrackingTheCodingInterview` { ~page 78 }
     - `Resume` wrote a version 2 but liked my version 1 better
  - [x] ***day12*** 8/23
     - `OpenSource` worked on a new issue and pull request
@@ -34,15 +38,15 @@ read these LinkedIn articles:
     - learnt how to add Code-of-Conduct, MIT License, and Release to my projects
     - read [How to Be a Kickass New Software Engineer](https://www.linkedin.com/pulse/how-kickass-new-software-engineer-raymond-gan/?ref=blog.pragmaticengineer.com)
  - [x] ***day7*** 8/18
-    - CS61B - 1.2 Reading Project 0 - game2048
+    - `cs61b` 1.2 Reading Project 0 - game2048
  - [x] ***day6*** 8/17
-    - CS61B - 1.2 Reading Project 0 - game2048
+    - `cs61b` 1.2 Reading Project 0 - game2048
  - [x] ***day5*** 8/16
-    - CS61B - 1.1 Homework & Lab
-    - CS61B - 1.2 Objects 
+    - `cs61b` 1.1 Homework & Lab
+    - `cs61b` 1.2 Objects 
  - [x] ***day4*** 8/15
-    - CS61B - 1.1 Essentials 
-    - Cracking-The-Coding-Interview { page 72 }
+    - `cs61b` 1.1 Essentials 
+    - `CrackingTheCodingInterview` { ~page 72 }
  - [x] ***day3*** 8/14
     - set up signup and signin form with nextjs clerk for project
  - [x] ***day2*** 8/13
