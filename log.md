@@ -12,10 +12,16 @@ read these LinkedIn articles:
 
 ## Second Round Challenge
 *`Ongoing (Aug 2023 - Current)`* <br>
+### September
+### August 
+ - [x] ***day17*** 8/28
+    - `pbi` Introduction to DAX in PBI 
+ - [x] ***day16*** 8/27
+    - trid to do a new static portfolio site but stuck with emailjs, went back to check my 3d portfolio site and realized emailjs is broken too.. 
  - [x] ***day15*** 8/26
     - `cs61b` Lecture 3. Testing
  - [x] ***day14*** 8/25
-    - learnt pbi
+    - `pbi` 
  - [x] ***day13*** 8/24
     - `CrackingTheCodingInterview` { ~page 78 }
     - `Resume` wrote a version 2 but liked my version 1 better
