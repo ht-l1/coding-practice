@@ -14,6 +14,8 @@ read these LinkedIn articles:
 *`Ongoing (Aug 2023 - Current)`* <br>
 ### September
 ### August 
+ - [x] ***day18*** 8/29
+    - `pbi` Data Visualization in Power BI
  - [x] ***day17*** 8/28
     - `pbi` Introduction to DAX in PBI 
  - [x] ***day16*** 8/27
@@ -28,7 +30,6 @@ read these LinkedIn articles:
  - [x] ***day12*** 8/23
     - `OpenSource` worked on a new issue and pull request
  - [x] ***day11*** 8/22
-    - attended a hiring event
     - [python in excel](https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-python-in-excel-the-best-of-both-worlds-for-data/ba-p/3905482)
     - [video tutorial: Pythin in excel](https://www.youtube.com/watch?v=FbBXtqtRnWU&ab_channel=LeilaGharani)
     - [Python, Excel, ChatGPT](https://www.youtube.com/watch?v=-_1IaUjO-hk&ab_channel=MyOnlineTrainingHub)
