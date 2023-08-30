@@ -14,6 +14,8 @@ read these LinkedIn articles:
 *`Ongoing (Aug 2023 - Current)`* <br>
 ### September
 ### August 
+ - [x] ***day19*** 8/30
+    - `cs61b` Lecture 5. SLLists, Nested Classes, Sentinel Nodes 
  - [x] ***day18*** 8/29
     - `pbi` Data Visualization in Power BI
     - `cs61b` Lecture 4. References, Recursion, and Lists
