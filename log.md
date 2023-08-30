@@ -16,6 +16,7 @@ read these LinkedIn articles:
 ### August 
  - [x] ***day18*** 8/29
     - `pbi` Data Visualization in Power BI
+    - `cs61b` Lecture 4. References, Recursion, and Lists
  - [x] ***day17*** 8/28
     - `pbi` Introduction to DAX in PBI 
  - [x] ***day16*** 8/27
