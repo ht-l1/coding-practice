@@ -14,3 +14,5 @@ CALCULATE(
 `CALENDAR(<start_date>, <end_date>)` <br>
 `CALENDARAUTO(<fiscal_year_end_month>)`
 
+### Analyze Customer Churn
+Churn Rate = Customers Lost / Total # of Customers
