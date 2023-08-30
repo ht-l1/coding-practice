@@ -1,5 +1,7 @@
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 ### DAX FUNCTION: CALCULATE()
-CALCULATE(Expression, [Filter1], [FILTER2], ...)
+> CALCULATE(Expression, [Filter1], [FILTER2], ...)
 ```
 CALCULATE(
     SUM(Sales[LinePrice]),
@@ -9,6 +11,6 @@ CALCULATE(
 ```
 
 ### Create a Date Table
-`CALENDAR(<start_date>, <end_date>)`
+`CALENDAR(<start_date>, <end_date>)` <br>
 `CALENDARAUTO(<fiscal_year_end_month>)`
 
