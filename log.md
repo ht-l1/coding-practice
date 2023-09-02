@@ -13,11 +13,14 @@ read these LinkedIn articles:
 ## Second Round Challenge
 *`Ongoing (Aug 2023 - Current)`* <br>
 ### September
+ - [ ] ***day23*** 9/3
+    - `cs61b` Lecture 5. SLLists, Nested Classes, Sentinel Nodes
+    - `leetcode` 3 questions
+    - `project` continue on circle
  - [x] ***day22*** 9/2
     - `project` removed a few larger size images so it can load faster
     - `portfolio` launched a static portfolio site
     - `OpenSource` read [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-    - `cs61b` Lecture 5. SLLists, Nested Classes, Sentinel Nodes
  - [x] ***day21*** 9/1
     - rest day☕
 ### August 
@@ -31,14 +34,13 @@ read these LinkedIn articles:
  - [x] ***day17*** 8/28
     - `pbi` Introduction to DAX in PBI 
  - [x] ***day16*** 8/27
-    - trid to do a new static portfolio site but stuck with emailjs, went back to check my 3d portfolio site and realized emailjs is broken too.. 
+    - `portfolio` emailjs is broken
  - [x] ***day15*** 8/26
     - `cs61b` Lecture 3. Testing
  - [x] ***day14*** 8/25
-    - `pbi` 
+    - `pbi` data transformation and dashboard
  - [x] ***day13*** 8/24
     - `CrackingTheCodingInterview` { ~page 78 }
-    - `Resume` wrote a version 2 but liked my version 1 better
  - [x] ***day12*** 8/23
     - `OpenSource` worked on a new issue and pull request
  - [x] ***day11*** 8/22
@@ -67,7 +69,7 @@ read these LinkedIn articles:
     - `cs61b` 1.1 Essentials 
     - `CrackingTheCodingInterview` { ~page 72 }
  - [x] ***day3*** 8/14
-    - set up signup and signin form with nextjs clerk for project
+    - `project` set up signup and signin form with nextjs clerk for project
  - [x] ***day2*** 8/13
     - deciding switching from python to java
  - [x] ***day1*** 8/12
