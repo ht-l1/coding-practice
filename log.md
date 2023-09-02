@@ -16,7 +16,7 @@ read these LinkedIn articles:
  - [x] ***day22*** 9/2
     - `project` removed a few larger size images so it can load faster
     - `portfolio` launched a static portfolio site
-    - `OpenSource` looking for open source projects
+    - `OpenSource` read [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
     - `cs61b` Lecture 5. SLLists, Nested Classes, Sentinel Nodes
  - [x] ***day21*** 9/1
     - rest day☕
