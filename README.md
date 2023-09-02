@@ -13,6 +13,7 @@ Welcome any contributions! Just do a pull request :)
 - [Software Engineer Behavioral Interview Questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
 
 ## Open Source & Good Read
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 - ["Coffee Chats"​ & Networking on LinkedIn](https://www.linkedin.com/pulse/beginners-guide-coffee-chats-networking-linkedin-rebecca-mclaren/)
 - [Advice for Less Experienced Software Engineers](https://blog.pragmaticengineer.com/advice-for-junior-software-engineers/)
 - [How to Be a Kickass New Software Engineer](https://www.linkedin.com/pulse/how-kickass-new-software-engineer-raymond-gan/?ref=blog.pragmaticengineer.com)
