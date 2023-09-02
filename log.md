@@ -13,9 +13,17 @@ read these LinkedIn articles:
 ## Second Round Challenge
 *`Ongoing (Aug 2023 - Current)`* <br>
 ### September
-### August 
- - [x] ***day19*** 8/30
+ - [x] ***day22*** 9/2
+    - `project` removed a few larger size images so it can load faster
+    - `OpenSource` looking for open source projects
     - `cs61b` Lecture 5. SLLists, Nested Classes, Sentinel Nodes 
+ - [x] ***day21*** 9/1
+    - rest day☕
+### August 
+ - [x] ***day20*** 8/31
+    - rest day☕
+ - [x] ***day19*** 8/30
+    - rest day☕
  - [x] ***day18*** 8/29
     - `pbi` Data Visualization in Power BI
     - `cs61b` Lecture 4. References, Recursion, and Lists
