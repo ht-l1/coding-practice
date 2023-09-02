@@ -15,8 +15,9 @@ read these LinkedIn articles:
 ### September
  - [x] ***day22*** 9/2
     - `project` removed a few larger size images so it can load faster
+    - `portfolio` launched a static portfolio site
     - `OpenSource` looking for open source projects
-    - `cs61b` Lecture 5. SLLists, Nested Classes, Sentinel Nodes 
+    - `cs61b` Lecture 5. SLLists, Nested Classes, Sentinel Nodes
  - [x] ***day21*** 9/1
     - rest day☕
 ### August 
