@@ -13,10 +13,14 @@ read these LinkedIn articles:
 ## Second Round Challenge
 *`Ongoing (Aug 2023 - Current)`* <br>
 ### September
- - [ ] ***day23*** 9/3
+ - [ ] ***day24*** 9/4
+    - `watch` [how-to-prep-tech-int](https://cs50.harvard.edu/x/2023/prepare/)
+    - `read` [Int-Guide](https://interviewguide.dev/)    
     - `cs61b` Lecture 5. SLLists, Nested Classes, Sentinel Nodes
     - `leetcode` 3 questions
     - `project` continue on circle
+ - [x] ***day23*** 9/3
+    - rest day☕
  - [x] ***day22*** 9/2
     - `project` removed a few larger size images so it can load faster
     - `portfolio` launched a static portfolio site

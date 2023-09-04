@@ -1,4 +1,3 @@
-Welcome any contributions! Just do a pull request :)
 
 ## Algorithms
 - [A Problem-Solving Flowchart](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_coding_skills_-_v6.pdf)
@@ -11,6 +10,8 @@ Welcome any contributions! Just do a pull request :)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/software-engineering-interview-guide/)
 - [writing FAANG resume](https://www.techinterviewhandbook.org/resume/)
 - [Software Engineer Behavioral Interview Questions](https://www.techinterviewhandbook.org/behavioral-interview-questions/)
+- [How to Prepare for Technical Interviews](https://cs50.harvard.edu/x/2023/prepare/)
+- [Interview Guide](https://interviewguide.dev/)
 
 ## Open Source & Good Read
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
