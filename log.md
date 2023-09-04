@@ -13,12 +13,13 @@ read these LinkedIn articles:
 ## Second Round Challenge
 *`Ongoing (Aug 2023 - Current)`* <br>
 ### September
- - [ ] ***day24*** 9/4
-    - `watch` [how-to-prep-tech-int](https://cs50.harvard.edu/x/2023/prepare/)
-    - `read` [Int-Guide](https://interviewguide.dev/)    
-    - `cs61b` Lecture 5. SLLists, Nested Classes, Sentinel Nodes
     - `leetcode` 3 questions
     - `project` continue on circle
+    - `read` [Interview Guide](https://interviewguide.dev/)    
+    - `cs61b` Lecture 5. SLLists, Nested Classes, Sentinel Nodes
+ 
+ - [ ] ***day24*** 9/4
+    - `watch` [How To Prep for Technical Interview](https://cs50.harvard.edu/x/2023/prepare/)
  - [x] ***day23*** 9/3
     - rest day☕
  - [x] ***day22*** 9/2
@@ -28,9 +29,7 @@ read these LinkedIn articles:
  - [x] ***day21*** 9/1
     - rest day☕
 ### August 
- - [x] ***day20*** 8/31
-    - rest day☕
- - [x] ***day19*** 8/30
+ - [x] ***day19-20*** 8/30-8/31
     - rest day☕
  - [x] ***day18*** 8/29
     - `pbi` Data Visualization in Power BI
