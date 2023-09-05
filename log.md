@@ -18,8 +18,8 @@ read these LinkedIn articles:
     - `read` [Interview Guide](https://interviewguide.dev/)    
     - `cs61b` Lecture 5. SLLists, Nested Classes, Sentinel Nodes
  
- - [ ] ***day24*** 9/4
-    - `watch` [How To Prep for Technical Interview](https://cs50.harvard.edu/x/2023/prepare/)
+ - [x] ***day24*** 9/4
+    - `cs50x` [How To Prep for Technical Interview](https://cs50.harvard.edu/x/2023/prepare/)
  - [x] ***day23*** 9/3
     - rest day☕
  - [x] ***day22*** 9/2
