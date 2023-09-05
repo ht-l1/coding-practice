@@ -2,8 +2,7 @@
 Notes taken from [lecture](https://cs50.harvard.edu/x/2023/prepare/) and [slides](https://cs50.harvard.edu/x/2023/prepare/prepare.pdf) <br>
 progress: 26.54
 
-<img src="https://github.com/ht-l1/resources/assets/106502799/ee2f08ac-874f-4a85-83d8-aa255bdde975" width="1000">
-
+<img src="https://github.com/ht-l1/resources/assets/106502799/0090b042-3c45-4f35-908f-c47e32afe61b" width="1000">
 
 #### 1. Choosing Companies
 <img src="https://github.com/ht-l1/resources/assets/106502799/9ac20330-5ac1-448a-8f62-4fb59496676d" width="500">
