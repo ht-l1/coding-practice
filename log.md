@@ -17,7 +17,10 @@ read these LinkedIn articles:
     - `project` continue on circle
     - `read` [Interview Guide](https://interviewguide.dev/)    
     - `cs61b` Lecture 5. SLLists, Nested Classes, Sentinel Nodes
- 
+ - [x] ***day26*** 9/6
+    - `WebDev`Udemy JavaScript
+ - [x] ***day25*** 9/5
+    - `WebDev`Udemy BootStrap & Project
  - [x] ***day24*** 9/4
     - `cs50x` [How To Prep for Technical Interview](https://cs50.harvard.edu/x/2023/prepare/)
  - [x] ***day23*** 9/3
