@@ -13,23 +13,37 @@ read these LinkedIn articles:
 ## Second Round Challenge
 *`Ongoing (Aug 2023 - Current)`* <br>
 ### September
-    - `leetcode` 3 questions
     - `project` continue on circle
     - `read` [Interview Guide](https://interviewguide.dev/)    
     - `cs61b` Lecture 5. SLLists, Nested Classes, Sentinel Nodes
- - [x] ***day26*** 9/6
-    - `WebDev`Udemy JavaScript
- - [x] ***day25*** 9/5
-    - `WebDev`Udemy BootStrap & Project
- - [x] ***day24*** 9/4
+    - `Anki` Python
+
+ - [] ***day31*** 9/11 Mon
+    - `Anki` SQL
+    - `Anki` Full Stack
+ - [x] ***day30*** 9/10 Sun
+    - `WebDev` JavaScript Object Literals
+    - `WebDev` JavaScript Arrays
+    - `WebDev` JavaScript Decision Making
+ - [x] ***day29*** 9/9 Sat
+    - `Anki` Full Stack
+ - [x] ***day28*** 9/8 Fri
+    - `WebDev` Udemy JavaScript
+ - [x] ***day27*** 9/7 Thur
+    - `WebDev` rest day☕
+ - [x] ***day26*** 9/6 Wedn
+    - `WebDev` Udemy JavaScript
+ - [x] ***day25*** 9/5 Tues
+    - `WebDev` Udemy BootStrap & Project
+ - [x] ***day24*** 9/4 Mon
     - `cs50x` [How To Prep for Technical Interview](https://cs50.harvard.edu/x/2023/prepare/)
- - [x] ***day23*** 9/3
+ - [x] ***day23*** 9/3 Sun
     - rest day☕
- - [x] ***day22*** 9/2
+ - [x] ***day22*** 9/2 Sat
     - `project` removed a few larger size images so it can load faster
     - `portfolio` launched a static portfolio site
     - `OpenSource` read [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
- - [x] ***day21*** 9/1
+ - [x] ***day21*** 9/1 Mon
     - rest day☕
 ### August 
  - [x] ***day19-20*** 8/30-8/31
