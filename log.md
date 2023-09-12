@@ -16,11 +16,12 @@ read these LinkedIn articles:
     - `project` continue on circle
     - `read` [Interview Guide](https://interviewguide.dev/)    
     - `cs61b` Lecture 5. SLLists, Nested Classes, Sentinel Nodes
-    - `Anki` Python
 
- - [] ***day31*** 9/11 Mon
-    - `Anki` SQL
+ - [x] ***day31*** 9/12 Tues
     - `Anki` Full Stack
+    - `OpenSource` pull request
+ - [x] ***day31*** 9/11 Mon
+    - rest day☕
  - [x] ***day30*** 9/10 Sun
     - `WebDev` JavaScript Object Literals
     - `WebDev` JavaScript Arrays
@@ -30,7 +31,7 @@ read these LinkedIn articles:
  - [x] ***day28*** 9/8 Fri
     - `WebDev` Udemy JavaScript
  - [x] ***day27*** 9/7 Thur
-    - `WebDev` rest day☕
+    - rest day☕
  - [x] ***day26*** 9/6 Wedn
     - `WebDev` Udemy JavaScript
  - [x] ***day25*** 9/5 Tues
