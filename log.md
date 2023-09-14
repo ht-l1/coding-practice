@@ -12,13 +12,20 @@ read these LinkedIn articles:
 
 ## Second Round Challenge
 *`Ongoing (Aug 2023 - Current)`* <br>
-### September
-    - `project` continue on circle
-    - `read` [Interview Guide](https://interviewguide.dev/)    
-    - `cs61b` Lecture 5. SLLists, Nested Classes, Sentinel Nodes
+### Goals
+- Complete Udemy course Web Developer bootcamp
+- Complete Udemy course Python 100 days
+- Know a project from start to finish
+- `read` [Interview Guide](https://interviewguide.dev/)    
 
+### September
+ - [] ***day33*** 9/14 Thur
+    - `WebDev` JavaScript Loop
+ - [x] ***day32*** 9/13 Thur
+    - rest day☕
  - [x] ***day31*** 9/12 Tues
     - `Anki` Full Stack
+    - `WebDev` JavaScript Loop
     - `OpenSource` pull request
  - [x] ***day31*** 9/11 Mon
     - rest day☕
@@ -96,3 +103,6 @@ read these LinkedIn articles:
  - [x] ***day1*** 8/12
     - listen to why we should contribute to open source projects 
     - did a few array and two pointer quesitons in leetcode 
+
+<!-- Archived Goals
+- `cs61b` Lecture 5. SLLists, Nested Classes, Sentinel Nodes -->

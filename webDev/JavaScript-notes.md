@@ -36,3 +36,6 @@ always use triple equals `===` and `!==` when compare things
 - `dot notation` vs `bracket notation`
     - `dot notation` is faster to write and clearer to read
     - `bracket notation` allows special characters and selection of properties using variables
+
+#### While Loops 
+continue running as long as the test condition is true
