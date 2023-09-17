@@ -19,6 +19,8 @@ read these LinkedIn articles:
 - `read` [Interview Guide](https://interviewguide.dev/)    
 
 ### September
+ - [] ***day35*** 9/17 Sun
+    - `WebDev` JavaScript More Functions
  - [x] ***day34*** 9/16 Sat
     - `WebDev` JavaScript Functions
     - `Terraform` Precourse
