@@ -39,3 +39,13 @@ always use triple equals `===` and `!==` when compare things
 
 #### While Loops 
 continue running as long as the test condition is true
+
+#### Methods vs Function
+Every method is a function, but not every function is a method <br>
+- Methods
+`"hello".toUpperCase()` 
+- Function
+`function add(x,y) {return x+y}`
+
+
+
