@@ -22,7 +22,9 @@ read these LinkedIn articles:
     - `WebDev` CallBacks & Array Methods
     - `CodeWars` Python
 
- - [x] ***day35*** 9/18 Mon
+ - [x] ***day37*** 9/19 Tues
+    - `LeetCodes` SQL 50
+ - [x] ***day36*** 9/18 Mon
     - `LeetCodes` SQL 50
  - [x] ***day35*** 9/17 Sun
     - `WebDev` JavaScript More Functions
