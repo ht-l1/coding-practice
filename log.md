@@ -19,13 +19,14 @@ read these LinkedIn articles:
 - `read` [Interview Guide](https://interviewguide.dev/)    
 
 ### September
- - [ ] ***day35*** 9/18 Mon
     - `WebDev` CallBacks & Array Methods
     - `CodeWars` Python
+
+ - [x] ***day35*** 9/18 Mon
+    - `LeetCodes` SQL 50
  - [x] ***day35*** 9/17 Sun
     - `WebDev` JavaScript More Functions
     - `LeetCodes` [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
-
  - [x] ***day34*** 9/16 Sat
     - `WebDev` JavaScript Functions
     - `Terraform` Precourse
