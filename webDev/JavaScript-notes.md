@@ -47,5 +47,7 @@ Every method is a function, but not every function is a method <br>
 - Function
 `function add(x,y) {return x+y}`
 
-
+#### [callback function](https://levelup.gitconnected.com/javascript-callback-functions-89cc315aa5be)
+- In Javascript, every function is an object. This allows us to use a function as a parameter in another function which is the fundamental idea of callback functions.
+- A callback function is a function that is passed as an argument to another function and is expected to be called back at a later point in time.
 
