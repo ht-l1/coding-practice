@@ -20,8 +20,13 @@ read these LinkedIn articles:
 
 ### September
     - `WebDev` CallBacks & Array Methods
-    - `CodeWars` Python
 
+ - [x] ***day40*** 9/22 Fri
+    - rest day☕
+ - [x] ***day39*** 9/21 Thur
+    - Anki
+ - [x] ***day38*** 9/20 Wedn
+    - rest day☕
  - [x] ***day37*** 9/19 Tues
     - `LeetCodes` SQL 50
  - [x] ***day36*** 9/18 Mon
