@@ -14,3 +14,8 @@ const fullNames = [{first: 'Albus', last: 'Dumbledore'}, {first: 'Harry', last: 
 const firstNames = fullNames.map(function (name) {
     return name.first;
   });
+
+  // now introducing in the arrow functions
+const newMovies = movies.map(movie => 
+  `${movie.title} - ${movie.score/10}`
+)

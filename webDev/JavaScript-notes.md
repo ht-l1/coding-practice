@@ -1,24 +1,24 @@
-google [JavaScript MDN](https://developer.mozilla.org/en-US/) for functions
+[JavaScript MDN](https://developer.mozilla.org/en-US/) 
 
-#### Template Literals
+#### [Template Literals]()
 `You bought ${qty} ${product}. Total is: $${price * qty}`
 <i>output:You bought 5 Articoke. Total is :$11.25</i>
 
-#### Primitive Types
+#### [Primitive Types]()
 `Null`: intentinal absence & must be assigned <br>
 `Undefined`: do not have an assigned value
 
-#### Comparisons
+#### [Comparisons]()
 always use triple equals `===` and `!==` when compare things
 
-#### connect js file to html
+#### [connect js file to html]()
 ```html
 <head>
 <script src="app.js"></script>
 </head>
 ```
 
-#### Arrays
+#### [Arrays]()
 - Ordered collections of values
 - Arrays are indexed
 - Array methods
@@ -28,7 +28,7 @@ always use triple equals `===` and `!==` when compare things
     - `unshift` > add to start
 - Nested Arrays
 
-#### Object Literals
+#### [Object Literals]()
 - Objects are collections of properties
 - <b>Properties are a key-value pair</b>
 - rather than accessing data using an index, we use custom keys
@@ -37,10 +37,10 @@ always use triple equals `===` and `!==` when compare things
     - `dot notation` is faster to write and clearer to read
     - `bracket notation` allows special characters and selection of properties using variables
 
-#### While Loops 
+#### [While Loops]() 
 continue running as long as the test condition is true
 
-#### Methods vs Function
+#### [Methods vs Function]()
 Every method is a function, but not every function is a method <br>
 - Methods
 `"hello".toUpperCase()` 
@@ -50,4 +50,8 @@ Every method is a function, but not every function is a method <br>
 #### [callback function](https://levelup.gitconnected.com/javascript-callback-functions-89cc315aa5be)
 - In Javascript, every function is an object. This allows us to use a function as a parameter in another function which is the fundamental idea of callback functions.
 - A callback function is a function that is passed as an argument to another function and is expected to be called back at a later point in time.
+
+#### [Filter]()
+- creates a new array
+- the original list does not change
 

@@ -1,7 +1,10 @@
 # 100 Days of Code
 Daily Log for continuous learning <br>
-## First Round Challenge 
-*`Completed (Nov 2022 - Jul 2023)`* <br>
+## First Round Challenge - 100days 
+ - [x] `Completed (Nov 2022 - Jul 2023)` <br>
+
+## Second Round Challenge - 100days
+ - [ ] `Ongoing (Aug 2023 - Current)` <br>
 
 <!-- ## To-Do
 read these LinkedIn articles:
@@ -10,8 +13,7 @@ read these LinkedIn articles:
 - [ ] [To bootcamp grads: The cold cutthroat reality of becoming a software engineer](https://www.linkedin.com/pulse/bootcamp-grads-cold-cutthroat-reality-becoming-software-raymond-gan/). Companies often hire only < 1% of software job applicants! Startups often give you just one month to be as fast as the rest of the software team. If not, you're fired.
 - [ ] To software developers: [How to make a popular LinkedIn page](https://www.linkedin.com/pulse/software-developers-how-make-popular-linkedin-page-raymond-gan/) -->
 
-## Second Round Challenge
-*`Ongoing (Aug 2023 - Current)`* <br>
+
 ### Goals
 - Complete Udemy course Web Developer bootcamp
 - Complete Udemy course Python 100 days
@@ -19,8 +21,10 @@ read these LinkedIn articles:
 - `read` [Interview Guide](https://interviewguide.dev/)    
 
 ### September
+ - [x] ***day41*** 9/23 Sat
+    - `LeetCode` 30 Days of JavaScript
+    - `LeetCode` SQL 50s
     - `WebDev` CallBacks & Array Methods
-
  - [x] ***day40*** 9/22 Fri
     - rest day☕
  - [x] ***day39*** 9/21 Thur
@@ -28,12 +32,12 @@ read these LinkedIn articles:
  - [x] ***day38*** 9/20 Wedn
     - rest day☕
  - [x] ***day37*** 9/19 Tues
-    - `LeetCodes` SQL 50
+    - `LeetCode` SQL 50
  - [x] ***day36*** 9/18 Mon
-    - `LeetCodes` SQL 50
+    - `LeetCode` SQL 50
  - [x] ***day35*** 9/17 Sun
     - `WebDev` JavaScript More Functions
-    - `LeetCodes` [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
+    - `LeetCode` [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
  - [x] ***day34*** 9/16 Sat
     - `WebDev` JavaScript Functions
     - `Terraform` Precourse
