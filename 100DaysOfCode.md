@@ -15,12 +15,18 @@ read these LinkedIn articles:
 
 
 ### Goals
-- Complete Udemy course Web Developer bootcamp
-- Complete Udemy course Python 100 days
+- Complete Udemy course [Web Developer]() and [Python 100 days]()
 - Know a project from start to finish
+- volunteer, hackathon, freelance, open source
 - `read` [Interview Guide](https://interviewguide.dev/)    
 
 ### September
+ - [] ***day43*** 9/25 Mon
+    - `LeetCode` SQL 50s
+    - `WebDev` Introducing DOM
+ - [x] ***day42*** 9/24 Sun
+    - `LeetCode` SQL 50s
+    - `WebDev` Newer JS Features
  - [x] ***day41*** 9/23 Sat
     - `LeetCode` 30 Days of JavaScript
     - `LeetCode` SQL 50s
