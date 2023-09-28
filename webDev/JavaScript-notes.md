@@ -55,3 +55,25 @@ Every method is a function, but not every function is a method <br>
 - creates a new array
 - the original list does not change
 
+#### [DOM]()
+The <u>Document</u> object is our entry point into the world of the DOM. It contains representations of all the content on a page, plus other methods and properties.<br>
+Selecting
+```JavaScript
+getElementByld
+getElementsByTagNam 
+getElementsByClassName
+```
+querySelector 
+```JavaScript
+document.querySelector('h1');    //finds first h1 element
+document.querySelector('#red');  // finds first element with ID of red
+document.querySelector('.big');  //finds first element with class of
+```
+querySelectorAll
+- returns a collection of matching elements
+
+<u>Object</u>
+
+
+<u>Model</u>
+
