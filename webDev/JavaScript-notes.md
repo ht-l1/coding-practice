@@ -73,7 +73,7 @@ querySelectorAll
 - returns a collection of matching elements
 
 <u>Object</u>
-
-
 <u>Model</u>
 
+#### [Async]()
+Call Stack = LIFO (keep stacking to the top, and also removig from the top)
