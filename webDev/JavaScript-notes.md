@@ -77,3 +77,64 @@ querySelectorAll
 
 #### [Async]()
 Call Stack = LIFO (keep stacking to the top, and also removig from the top)
+
+#### [Promise](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
+- `.then()` gets called after a promise resolved
+- `.catch()` gets called after a promise rejected <br>
+
+In below example, the Promise constructor receives two callbacks(resolve to handle success, and reject to handle errors)
+```JavaScript
+new Promise((resolve, reject) => {
+    try {
+        const data =  //perform a task here
+        resolve(data)  // when data ready and no error, pass the data to the resolve method
+    } catch(e){
+        reject(new Error(e))   //if error, pass the error to the reject method
+    }
+})
+```
+
+#### [Microtasks and Macrotasks](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
+- Macro: `setTimeout` | `setInterval` | `setImmediate`
+- Micro: `process.nextTick` | `Promise callback` | `async` | `queueMicrotask`
+```JavaScript
+console.log('Start')
+
+setTimeout(() => {
+    console.log('Timeout!')
+},0)
+
+Promise.resolve('Promise!')
+    .then(res => console.log(res))
+
+console.log('End!)
+```
+Here's the printout:
+```bash
+Start!
+End!
+Promise!
+Timeout!      //Macrotask gets executed last
+```
+
+#### [Async](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
+```JavaScript
+const one = () => Promise.resolve('One')
+
+async function myFunc() {
+    console.log('In Function')
+    const res = await one()
+    console.log(res)
+}
+
+console.log('Before function!')
+myFunc();
+console.log('After function!')
+```
+Printout: note the `await` keyword suspends the `async` function whereas the Promise body would've kept on being executed if we would've used `then`!
+```bash
+Before function!
+In function!
+After function!
+One!
+```
