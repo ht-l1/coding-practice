@@ -117,7 +117,10 @@ Promise!
 Timeout!      //Macrotask gets executed last
 ```
 
-#### [Async](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
+#### [Async Await](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
+- auto returns a promise
+- `await` will pause the execution of the function, awaiting for a promise to be resolved
+
 ```JavaScript
 const one = () => Promise.resolve('One')
 
