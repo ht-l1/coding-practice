@@ -1,7 +1,6 @@
-
-<a href="">
+<!-- <a href="">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{ht-l1}1212%2Fhit-counter" />
-</a>
+</a> -->
 
 <a href="">
 <img height=20 src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
@@ -11,7 +10,9 @@
   <img height=20 src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
 </a>
 
-
+<a href="">
+  <img height=20 src="https://www.codewars.com/users/ht-l1/badges/micro" />
+</a>
 
 ## Algorithms
 - [A Problem-Solving Flowchart](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_coding_skills_-_v6.pdf)
