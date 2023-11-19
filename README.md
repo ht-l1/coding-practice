@@ -16,21 +16,15 @@
 
 ## OOP
 
-<b>Abstraction</b>: a toy robot with a big button <br/>
-Abstraction is like using a toy robot with a big button. You don't need to know how the robot works inside; you just press the button, and it does something cool. In programming, abstraction is when you use something without needing to know all the complicated details. You just need to know what it does, not how it does it.
-
-<b>Encapsulation</b>: lunchbox <br/>
-Encapsulation is like putting your lunch in a box. Everything you need for lunch is in one place – your sandwich, your juice box, and your cookies. It keeps your lunch together and safe. In programming, encapsulation is like putting the things a piece of code needs together, so they're organized and protected.
-
-<b>Inheritance</b>: family tree <br/>
-Inheritance is like having a family tree where kids get some things from their parents. Let's say your grandpa had a special recipe, and your dad knows it too. You also know the recipe because it's passed down from one generation to the next. In programming, inheritance is when a new piece of code (like a class) can use things from an older piece of code (like a parent class).
-
-<b>Polymorphism</b>: TV remote <br/>
-Polymorphism is like having a universal remote control. The same buttons do different things depending on what device you're using it with. When you press "volume up," it works whether you're controlling the TV or a music player. In programming, polymorphism is when the same method or function can do different things based on the context.
+| Concept       | Analogy                         | Explanation                                                                                                                                                               |
+|---------------|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Abstraction   | Toy Robot with a Big Button      | It allows you to interact with something without knowing the intricate details. In programming, it means using a feature without understanding its implementation.              |
+| Encapsulation | Lunchbox                        | It gathers everything needed in one place, keeping it organized and protected. In programming, it involves grouping related code and data to prevent external interference.  |
+| Inheritance   | Family Tree                     | It enables a new class to inherit characteristics from the parent class.                |
+| Polymorphism  | TV Remote                       | Using a universal remote control where the same buttons perform different functions based on the device (pressing 'volumn up' works whether you're contorlling the TV or a music player). In programming, it allows a method or function to exhibit different behaviors in different contexts. |
 
 ## Array Methods
 <img src="https://github.com/ht-l1/coding-practice/assets/106502799/d803f614-de71-4b77-92a5-9a1bf23a67f9" alt="image" width="400"/>
-
 
 # Resource List
 
