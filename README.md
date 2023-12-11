@@ -23,8 +23,11 @@
 | Inheritance   | Family Tree                     | It enables a new class to inherit characteristics from the parent class.                |
 | Polymorphism  | TV Remote                       | Using a universal remote control where the same buttons perform different functions based on the device (pressing 'volumn up' works whether you're contorlling the TV or a music player). In programming, it allows a method or function to exhibit different behaviors in different contexts. |
 
+## OOP Encapsulation vs Abstraction
+<img src="https://github.com/ht-l1/coding-practice/assets/106502799/51784e82-f77b-445d-8f77-136d398455ed" alt="image" width="350"/>
+
 ## Array Methods
-<img src="https://github.com/ht-l1/coding-practice/assets/106502799/d803f614-de71-4b77-92a5-9a1bf23a67f9" alt="image" width="400"/>
+<img src="https://github.com/ht-l1/coding-practice/assets/106502799/d803f614-de71-4b77-92a5-9a1bf23a67f9" alt="image" width="350"/>
 
 # Resource List
 
