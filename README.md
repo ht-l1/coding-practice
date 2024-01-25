@@ -22,16 +22,18 @@
 | Encapsulation | Lunchbox                        | It gathers everything needed in one place, keeping it organized and protected. In programming, it involves grouping related code and data to prevent external interference.  |
 | Inheritance   | Family Tree                     | It enables a new class to inherit characteristics from the parent class.                |
 | Polymorphism  | TV Remote                       | Using a universal remote control where the same buttons perform different functions based on the device (pressing 'volumn up' works whether you're contorlling the TV or a music player). In programming, it allows a method or function to exhibit different behaviors in different contexts. |
-
+<!--
 ## [Encapsulation vs Abstraction](https://stackoverflow.com/questions/742341/difference-between-abstraction-and-encapsulation)
 <img src="https://github.com/ht-l1/coding-practice/assets/106502799/51784e82-f77b-445d-8f77-136d398455ed" alt="image" width="450"/>
 
-<!--
 ## Array Methods
 <img src="https://github.com/ht-l1/coding-practice/assets/106502799/d803f614-de71-4b77-92a5-9a1bf23a67f9" alt="image" width="350"/>
 -->
 
 # Resource List
+
+Quick Tip
+[push existing project to github repo](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-push-an-existing-project-to-GitHub)
 
 ## Algorithms
 - [A Problem-Solving Flowchart](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_coding_skills_-_v6.pdf)
